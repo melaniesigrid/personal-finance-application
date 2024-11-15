@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../../styles/styles.scss';  // Import the main SCSS file
+import '../../stylesheets/main.scss'
 
 const RecurringBills = () => {
   const [bills, setBills] = useState([]);

@@ -1,0 +1,6 @@
+// Layout rules
+.grid {
+    display: grid;
+    grid-template-columns: repeat($grid-columns, 1fr);
+    gap: $grid-gutter;
+}
