@@ -1,0 +1,44 @@
+.recurring-bills {
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .filters input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .filters select {
+    padding: 5px;
+  }
+  
+  .bills-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .bills-list table th, .bills-list table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .summary {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
